@@ -1,4 +1,4 @@
-numero = 124965387
+numero = 12
 divisores = []
 
 for i in range(1,numero+1):
